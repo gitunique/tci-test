@@ -27,4 +27,4 @@ def sqrt(x):
     >>> sqrt(4.0)
     2.0
     """
-    return x * 0.5
+    return x ** 0.5
